@@ -8,6 +8,12 @@
   font-size: 36px;
   margin-top: 20px;
 }
+ .nav {
+  margin-top: 18px;
+}
+ .nav a:hover {
+ color: #ff827b;
+ }
 .jumbotron {
   background-image: url('../img/hero.jpg');
   background-size: cover;
@@ -38,6 +44,7 @@
 }
 footer {
    background-color: #333;
+   padding-top: 50px;
 }
 footer a {
   color: #bfc0c1;
